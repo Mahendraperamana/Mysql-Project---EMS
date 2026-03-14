@@ -1,5 +1,5 @@
 CREATE DATABASE IF NOT EXISTS vamdb;
-USE vamdb;
+USE mdb;
 
 CREATE TABLE Categories (
     category_id INT AUTO_INCREMENT PRIMARY KEY,
