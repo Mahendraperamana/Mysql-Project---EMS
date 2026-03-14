@@ -1,4 +1,4 @@
-USE vamdb;
+USE mdb;
 
 -- Query 1: Total Revenue per Country
 SELECT country, SUM(total_amount) as total_revenue
