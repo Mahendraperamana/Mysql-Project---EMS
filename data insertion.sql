@@ -1,4 +1,4 @@
-USE vamdb;
+USE mdb;
 
 INSERT INTO Categories (category_name) VALUES ('Electronics'), ('Home Decor'), ('Books'), ('Fitness');
 
